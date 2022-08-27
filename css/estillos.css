@@ -59,3 +59,8 @@ body {
     font-size: 16px;
     margin: 0 auto;
   }
+  #post #imagen{
+    width: 400px;
+    vertical-align: middle;
+
+  }
